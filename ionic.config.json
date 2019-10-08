@@ -1,0 +1,9 @@
+{
+  "name": "paragenix",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "0eb8bdb9"
+}
