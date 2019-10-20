@@ -147,5 +147,5 @@ Open home.page.html and clear out everything under `<ion-list>` as that is the t
 3. `npx cap copy`
 4. enter into electron\(folder)-> `npm run electron:start`
 
-
+#### Thanks to [Sani Yusuf](https://www.linkedin.com/in/saniyusuf/) for explaining this in detail on [Linkedin Learning](https://www.linkedin.com/)
 
